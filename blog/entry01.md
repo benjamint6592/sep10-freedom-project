@@ -8,7 +8,9 @@ The topic I decided for my Freedom Project is Nuclear Engineering/Applied Physic
 Before I settled on Nuclear Engineering, I consulted the idea of doing architecture, due to the fact you are able to design, innovate, and develop just like that of the role of a Nuclear Engineering and studying Applied Physics and structuring how to deliver energy on a daily basis.
 
 ## Articles I found interesting
-Relating to the study of Applied Physics and Nuclear Engineering, some articles I found interesting on the topic include this [Pros and Cons of Being a Nuclear Engineer](https://www.indeed.com/career-advice/finding-a-job/pros-cons-of-being-nuclear-engineer) article by Indeed, refering the pros and cons of being a Nuclear Engineer and if the skill set is right for you or not. Furthermore, this article by Columbia on their [Applied Physics Undergraduate Program](https://www.apam.columbia.edu/applied-physics-undergraduate-program) really enlightened me on the opportunities associated with the profession.
+Relating to the study of Applied Physics and Nuclear Engineering, some articles I found interesting on the topic include this [Pros and Cons of Being a Nuclear Engineer](https://www.indeed.com/career-advice/finding-a-job/pros-cons-of-being-nuclear-engineer) article by Indeed, refering the pros and cons of being a Nuclear Engineer and if the skill set is right for you or not. Furthermore, this article by Columbia on their [Applied Physics Undergraduate Program](https://www.apam.columbia.edu/applied-physics-undergraduate-program) really enlightened me on the opportunities associated with the profession. Furthermore, this MIT article on [MIT's work with the Idaho National Laboratory and advances in the American Nuclear Industry](https://news.mit.edu/2025/mit-work-with-idaho-national-laboratory-advances-america-nuclear-industry-0923) really peaked my interest, especially on their research with Small Modular Reactors, allowing for the first nuclear reactor in space.
+
+
 
 [Next](entry02.md)
 
