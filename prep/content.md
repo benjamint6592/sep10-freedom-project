@@ -8,7 +8,7 @@
     * These include advanced reactor design and safety analysis, nuclear materials management and nonproliferation, reactor and fuel cycle physics, nuclear engineering modeling and simulation, and sensors, instruments and  diagnostics.
    * [A Next-Gen Gas Cooled Reactor Schematic showing efforts of innovation in Nuclear Renewable Enegry](https://www.gen-4.org/sites/default/files/styles/imageslider/public/2024-12/GFR%20w%20Logo_0.png?h=96181b0b&itok=h5W7hVjI)
 * 2nd Google Search: How is Applied Physics used in Nuclear Engineering
-* (Looking how Nuclear Engineering is being applied currently in software and forward innovation)
+* (Looking how Nuclear Engineering is being applied currently in software and forward innovation in education and laboratories)
   * Website I looked into: [Role of Applied Physics in Modern Engineering Challenges](https://ep.jhu.edu/news/the-role-of-applied-physics-in-modern-engineering-challenges)
     * Applied Physics is used to connect Physics and Engineering to innovate practical solutions to real world problems
     * Applied Physics drives significant innovation in renewable energy technology, the specialization of Nuclear Engineering
