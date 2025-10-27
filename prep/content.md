@@ -7,7 +7,7 @@
     * Researchers at the Argonne National Laboratory are looking towards 5 key areas of development
     * These include advanced reactor design and safety analysis, nuclear materials management and nonproliferation, reactor and fuel cycle physics, nuclear engineering modeling and simulation, and sensors, instruments and  diagnostics.
    * [A Next-Gen Gas Cooled Reactor Schematic showing efforts of innovation in Nuclear Renewable Enegry](https://www.gen-4.org/sites/default/files/styles/imageslider/public/2024-12/GFR%20w%20Logo_0.png?h=96181b0b&itok=h5W7hVjI)
-   * Extra: Specialized Hardware Usage
+   * Extra: Specialized Software Usage
      * Uses top of the line supercomputers and advanced AI Systems from Intel, NVIDIA, HPE, and AMD
 * 2nd Google Search: How is Applied Physics used in Nuclear Engineering
 * (Looking how Nuclear Engineering is being applied currently in software and forward innovation in education and laboratories)
@@ -25,6 +25,6 @@
     * Uses Physics models to ensure reliable testing results for all reactor fuel types
     * Easy to operate and integrates previous software for reactor design and fuel management
    * [An image illustrating the application of Nuclear Simulation Software](https://ne.ncsu.edu/rdfmg/wp-content/uploads/sites/4/2018/02/monitor1-1200x675.png)
-   * Extra: Hardware Requirements
+   * Extra: Software Requirements
      * Requires: Dual-Core Processor with 4G Avaliable Memory to run CASMO5
 
