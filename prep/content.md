@@ -66,7 +66,7 @@ Department of Energy Announces Initial Selections for New Reactor Pilot Program]
   * The Solar-Fusion Phone's display photonic crystal screen
   * This screen is capable of bending light and refracting light to produce images with perfect lucidity, even in direct sunlight
   * Uses a solar-signature authentication system which uses a users light profile (their unique molecular reaction with photons) to unlock their device
-  * This makes the Solar-Fusion phone to traditional hacking
+  * This makes the Solar-Fusion phone resistent to traditional hacking
   * The artificial sun satellite uses tight-beam microstreams (laser-like particles) in order to broadcast energy to one phone at a time
   * This leads to no energy spill that could interfere with radio telescopes, NASA communications, or other satellites.
 * [An image of what this phone could look like](https://chatgpt.com/backend-api/estuary/content?id=file_000000004f48720c87dc11cc60235b9e&ts=489984&p=fs&cid=1&sig=bb9faaa78ed6f253d02412b3a8eaa12e627ead8fbf948e1b487896237664a0f3&v=0)
