@@ -4,25 +4,22 @@
 ## Content
 
 ### Tinkering with Aframes
-In SEP, we had to choose a tool to tinker with that we would use for our Freedom Projec that we have been working on the whole year. In class, we toured multiple tools that we could tinker with such as Jekyll but one that really caught me eye was Aframes. For Part B of my Freedom Project, we had to theororize inventions that could exist in the future. Since my topic was Nuclear Engineering/Applied Physics, I decided to create a phone that was powered by an Artificial Sun Satellite that would perpetually charge the phone. Since Aframes was a tool that could be used to 3d model objects using HTML, I knew it was perfect for modeling my Artifical Sun Powered Phone that could exist in the future. To begin tinkering with Aframes, I created a new HTML file in the tool part of my SEP10 Freedom Project directory in my projects on my IDE, as seen [here.](ide.png)
-
-## EDP
-In this part of the engineering design process, we are looking how to apply AVD in our webpages, creating an informational website on a topic we selected on Free Code Camp. In the Freedom Project, we are currently culiminating our previous efforts of synthesizing Part A and Part B of our Freedom Project webpage plan into a singular website, creating a timeline of past, current, and theoretical technologies like my Artificial Solar Fusion phone I aforementioned in my Brainstorming of Part B. I look forward to see how we will apply this in our webpages and how I will grow as a coder and a learner. 
+In SEP, we had to choose a tool to tinker with that we would use for our Freedom Projec that we have been working on the whole year. In class, we toured multiple tools that we could tinker with such as Jekyll but one that really caught me eye was Aframes. For Part B of my Freedom Project, we had to theororize inventions that could exist in the future. Since my topic was Nuclear Engineering/Applied Physics, I decided to create a phone that was powered by an Artificial Sun Satellite that would perpetually charge the phone. Since Aframes was a tool that could be used to 3d model objects using HTML, I knew it was perfect for modeling my Artifical Sun Powered Phone that could exist in the future. To begin tinkering with Aframes, I created a new HTML file in the tool part of my SEP10 Freedom Project directory in my projects on my IDE, as seen [here.](ide.png) After, I proceeded to go the Aframes website and copy and paste the starter code into the HTML file to begin tinkering. After doing so, I typed in the command `http-server` to view the website, as seen [here.](shapes.png) There, I was able to move around and saw multipe shapes on a 3d green plane. I tinkered with the shapes and plane by altering the height and width of both, in an effort to test the capabilities of Aframes.
 
 ## Skills
-Some skills I have developed from working on this blog are writing skills, technical communication, and reflection.
+Some skills I have developed from working on this blog and tinkering with Aframes are Problem Solving, Technical Skills, and Creativity.
 
-### Writing Skills
-As I combined information from multiple sources and my brainstorming notes in my brainstorming of Part B while writing this blog, I became better at synthesis writing skills, creating a clear and cohesive explanation about how I created Part B for my future Freedom Project webpage about my assigned topic of Nuclear Engineering/Applied Physics.
+### Problem Solving
+By tinkering with Aframes and adjusting the various shapes, the 3d plane, and attributes of Aframes in my HTML file, I practiced experimenting even when things didn’t work the way I expected. This helped me develop problem-solving skills as I tested the different changes I made by editing the code and finding out how Aframes behaves.
 
-### Technical Communication
-As I explained complex ideas like Nuclear Fusion, Artificial Suns, and Theoretical technologies in my explanation of how I brainstormed Part B while writing this blog, I learned skills of how to summarize complex ideas and explain them to a general audience who is not well versed in my assigned Freedom Project topic of Nuclear Engineering/Applied Physics.
+### Technical Skills
+As I created and edited the HTML file in my IDE while using commands like `http-server`, I improved my technical skills with Git tools and using my IDE. It helped me become more comfortable working with my IDE and different technologies and understand how my code turns into a working system.
 
-### Reflection
-As I thought about my engineering design process and recognized how my past works infulenced my brainstorming of Part B of my Freedom Project and my current decisions of writing this Blog and thinking about what we are doing in class and how it is effecting my coding skills and learning ability, I have developed skills of Reflection.
+### Creativity
+While thinkign about how I could design my Part B concept of an Artificial Sun Powered Phone in Aframes, I practiced creative thinking about future technologies. It helped me develop the ability ttheororize how I could turn imaginitive ideas into fully modeled scientific innovations.
 
 ## Next Steps
-I am looking forward to finishing my AVD animation and project and going forward in our Engineering Design Process.
+I am looking forward to progressing my Freedom Project and using Aframes as a way to creatively model my Part B idea.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
