@@ -11,8 +11,13 @@
 * You can set position, rotation, and scale using `position "x y z"` to move size and objects.
 * You can add clicks, animation, and movement with A-Frame components like `animation` or `cursor`.
 
-### X/X/XX:
-* Text
+### 3/29/26:
+* I tinkered by trying to create a tree using A-Frame
+* I used a cylinder primitive to emulate the trunk of the tree
+* Then I used a cone primitive to emulate the leaves
+* I changed different color and scales values to try and make the tree look more realistic
+* Adjusting the `position` value helped me align the different objects\
+* It also helped me understand how coordinates work in a 3d space (The A-Frame default plane)
 
 
 <!-- 
