@@ -19,6 +19,12 @@
 * Adjusting the `position` value helped me align the different objects\
 * It also helped me understand how coordinates work in a 3d space (The A-Frame default plane)
 
+### 3/30/26:
+* Today I learned about the `material` component of A-Frame
+* I changed different colors, opacity, and added textures to objects
+* Adjusting the different materials of shapes made them look more realistic and less flat
+* This helped me understand how shapes interact with light in a 3d plane
+
 
 <!-- 
 * Links you used today (websites, videos, etc)
