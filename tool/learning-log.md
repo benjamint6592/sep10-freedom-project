@@ -16,7 +16,7 @@
 * I used a cylinder primitive to emulate the trunk of the tree
 * Then I used a cone primitive to emulate the leaves
 * I changed different color and scales values to try and make the tree look more realistic
-* Adjusting the `position` value helped me align the different objects\
+* Adjusting the `position` value helped me align the different objects
 * It also helped me understand how coordinates work in a 3d space (The A-Frame default plane)
 
 ### 3/30/26:
@@ -24,6 +24,14 @@
 * I changed different colors, opacity, and added textures to objects
 * Adjusting the different materials of shapes made them look more realistic and less flat
 * This helped me understand how shapes interact with light in a 3d plane
+
+### 4/15/26:
+* Today I tried using the `animation` component
+* I made primitives move, rotate, and scale over time
+* I also tried experimentign with light sources
+* These light sources include ambient lighting and directional lighting
+* The textures looked better and the scene looked less dull
+* It helped me understand how light in Aframe helps you have a sense of depth in a 3d scene
 
 
 <!-- 
