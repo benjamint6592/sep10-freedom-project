@@ -4,26 +4,23 @@
 ## Content
 
 ### Attempting to create my Part B idea inside of Aframe
-In SEP, we are continuing to plan our Freedom Project by developing our tool's unique components and attributes. Since my Freedom Project idea was Nuclear Engineering and my Part B idea was a Futuristic Solar Phone that was powered by an Artificial Sun Satellite, I decided that Aframe would be the best way to create the Solar Phone and put it on my Freedom Project website. Recently, I began experimenting with Aframe's components to create my Solar Phone. As seen [here](../img/phone-code.png), I used my amassed knowledge of Aframes components such as 
-
-## EDP
-In this part of the engineering design process, we are looking how to apply AVD in our webpages, creating an informational website on a topic we selected on Free Code Camp. In the Freedom Project, we are currently culiminating our previous efforts of synthesizing Part A and Part B of our Freedom Project webpage plan into a singular website, creating a timeline of past, current, and theoretical technologies like my Artificial Solar Fusion phone I aforementioned in my Brainstorming of Part B. I look forward to see how we will apply this in our webpages and how I will grow as a coder and a learner. 
+In SEP, we are continuing to plan our Freedom Project by developing our tool's unique components and attributes. Since my Freedom Project idea was Nuclear Engineering and my Part B idea was a Futuristic Solar Phone that was powered by an Artificial Sun Satellite, I decided that Aframe would be the best way to create the Solar Phone and put it on my Freedom Project website. Recently, I began experimenting with Aframe's components to create my Solar Phone. As seen [here](../img/phone-code.png), I utilized my knowledge of components such as `a-box` to alter the position, depth, height, width, material and color of the phones various parts. As seen in the code listed, I also added an orange emission coming from the phone to make it seemed like its turned on/functional. Furthermore, to make the Solar Phone look more realistic, I added a home button to the bottom of the phone using the `a-cylinder` component to create a 3d cylinder shape, as seen [here](../img/home-code.png). All these different parts of the phoen came together to make a prototype model of my Part B Solar Phone idea, as seen [here](../img/phone.png). Though this is a rough draft and could look a lot better, I am still proud of the final product I was able to create.
 
 ## Skills
-Some skills I have developed from working on this blog are writing skills, technical communication, and reflection.
+Some skills I have developed from working on this blog are problem-solving, adaptability, and attention to detail.
 
-### Writing Skills
-As I combined information from multiple sources and my brainstorming notes in my brainstorming of Part B while writing this blog, I became better at synthesis writing skills, creating a clear and cohesive explanation about how I created Part B for my future Freedom Project webpage about my assigned topic of Nuclear Engineering/Applied Physics.
+### Problem-Solving
+As I created my Solar Phone using Aframe, I constantly ran into issues with positioning, size, and making all the different components work together to create a final product. I learned how to rectify these issues through testing various solutions and changing my approach until I finally succeded in my effort. 
 
-### Technical Communication
-As I explained complex ideas like Nuclear Fusion, Artificial Suns, and Theoretical technologies in my explanation of how I brainstormed Part B while writing this blog, I learned skills of how to summarize complex ideas and explain them to a general audience who is not well versed in my assigned Freedom Project topic of Nuclear Engineering/Applied Physics.
+### Adaptability
+Throughout my experience working on the prototype for my Solar Phone model, I had to adjust my ideas several times based on what Aframe was capable of. Overall, this helped me become more flexible and open to changing my plan instead of repeating the same cycle of trying something that is not working.
 
-### Reflection
-As I thought about my engineering design process and recognized how my past works infulenced my brainstorming of Part B of my Freedom Project and my current decisions of writing this Blog and thinking about what we are doing in class and how it is effecting my coding skills and learning ability, I have developed skills of Reflection.
+### Attention to Detail
+As I added specific details to my phone such as glow effect from the orange emissions and home button, I gained skills in Attention to Detail. Adding the mentioned details to my phone required careful adjustments to small properties that could make a big difference in how the final prototype of the Solar Phone looks.
 
 ## Next Steps
-I am looking forward to finishing my AVD animation and project and going forward in our Engineering Design Process.
+I am looking forward to working on and completing my Freedom Project website and going forward in our Engineering Design Process.
 
-[Previous](entry02.md) | [Next](entry04.md)
+[Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
