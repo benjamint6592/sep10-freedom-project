@@ -2,10 +2,6 @@ html {
     scroll-behavior: smooth;
 }
 
-.big-space {
-    margin-top: 1500px;
-}
-
 body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
