@@ -16,9 +16,9 @@
 
         <title>Title</title>
     </head>
-    <body>
+    <body data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="80" tabindex="0">
         <!-- HTML -->
-        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">Ben's Freedom Project</a>
                 <img src="../img/atom.png" alt="" width="24" height="24" class="navbar-logo">
@@ -28,23 +28,23 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    <a class="nav-link active" aria-current="page" href="#home">Home</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="#">Part A Tech</a>
+                    <a class="nav-link" href="#part-a">Part A Tech</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="#">Part B Tech</a>
+                    <a class="nav-link" href="#part-b">Part B Tech</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="#">Future Inventions</a>
+                    <a class="nav-link" href="#future">Future Inventions</a>
                     </li>
                 </ul>
            </div>
           </div>
         </nav>
 
-    <main class="container text-center my-5">
+    <main id="home" class="container text-center my-5">
         <h1 class="mb-5">Nuclear Engineering</h1>
         <div class="row justify-content-center align-items-end g-4 mb-4">
             <div class="col-12 col-md-3">
@@ -62,7 +62,6 @@
         </div>
 
               <p class="fs-1">↓</p>
-        </section>
 
     <section class="container text-center">
         <h2 class="mb-4">What is Nuclear Engineering?</h2>
