@@ -153,6 +153,73 @@
 
 </section>
 
+<section id="part-b" class="container text-center my-5">
+    <h2 class="mb-3">Inventions of the Future:</h2>
+
+    <div class="mx-auto" style="max-width: 650px;">
+        <p>
+            The Solar-Fusion Phone utilizes an artificial sun satellite to project energy into a micro-chamber in the phone.
+            This allows the phone to refill its battery in seconds.
+        </p>
+        <p>
+            The phone locks onto the satellite’s energy stream, needing no charging port or cable.
+        </p>
+        <p>
+            It uses a theoretical containment lattice to capture energy and convert fusion particles into electrical energy.
+        </p>
+        <p>
+            The battery never degrades and can sustain power for decades.
+        </p>
+        <p>
+            Made from nano-materials, the phone can optimize itself at an atomic level for more efficient energy absorption.
+        </p>
+    </div>
+
+<div class="mx-auto mt-5" style="max-width: 420px; height: 500px;">
+    <!-- Include A-Frame -->
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+
+    <a-scene embedded style="width: 100%; height: 100%; background: #ffffff;">
+
+        <a-camera position="0 0 5"></a-camera>
+
+        <a-light type="ambient" intensity="0.9"></a-light>
+        <a-light type="directional" position="1 2 2" intensity="0.6"></a-light>
+
+        <a-box
+            position="0 0 0"
+            depth="0.2"
+            height="2.8"
+            width="1.4"
+            color="#333"
+            radius="0.1">
+        </a-box>
+
+
+        <a-plane
+            position="0 0.2 0.11"
+            height="2.2"
+            width="1.1"
+            color="#ff8c00"
+            material="emissive: #ff8c00; emissiveIntensity: 1.4;">
+        </a-plane>
+
+        <a-cylinder
+            position="0 -1.1 0.12"
+            radius="0.12"
+            height="0.05"
+            color="#888">
+        </a-cylinder>
+
+        <a-entity animation="property: rotation; to: 0 360 0; loop: true; dur: 8000">
+            <a-box visible="false"></a-box>
+        </a-entity>
+
+    </a-scene>
+
+    <p class="mt-2 text-center">A-frame Solar Phone Model</p>
+</div>
+
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
         <!-- <script src="script.js"></script> -->
         <script>
