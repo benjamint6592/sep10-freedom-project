@@ -2,7 +2,7 @@
 
 ## Wireframes
 * [Mobile](../img/4wire.jpg)
-* [Desktop](../img/1wire.jpg)(And 2-3)
+* [Desktop](../img/1wire.jpg) (And 2-3)
 
 ## Colors
 * `#ABC123`
