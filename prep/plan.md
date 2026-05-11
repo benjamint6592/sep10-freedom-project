@@ -38,20 +38,13 @@
 * Add Bootstrap Icons
 
 
-
-
-
-
-<!-- DO NOT USE THIS YET
-
 #### Peer Feedback
 
-| Name | Glows | Grows |
-| -------- | ------- | ------- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Miles | I really like your websites color scheme and the formatting. | You could add more bootstrap components to demonstrate what you've learned throughout the year. |
 
--->
+| Sadik | Your website looks nice. I like your Aframes model and how its positioned at the bottom of the page. | Maybe add more information about your Part B idea, maybe how you came to some conclusions? |
+
+| Joshua | I like your websites colors, images, and how your topic is demonstrated on your website. | Nothing to add, looks good. |
+
+
+
