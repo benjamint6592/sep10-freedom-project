@@ -78,7 +78,23 @@ a-scene {
     border: 2px solid rgba(255,255,255,0.1);
 }
 
+.site-footer {
+    background:
+    linear-gradient(
+    180deg,
+    rgba(15,23,42,0.2),
+    rgba(2,6,23,0.95)
+    );
+    text-align: center;
+    padding: 1rem;
+    margin-top: 6rem;
+    width: 100%;
+}
 
+.site-footer p {
+    margin-bottom: 0;
+}
 
-
-
+main {
+    flex: 1;
+}
