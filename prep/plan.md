@@ -36,6 +36,10 @@
   * Spacing
   * Coloring
 * Add Bootstrap Icons
+* New Beyond MVP Additions:
+  * More Bootstrap Components (Carousel, Accordion, etc.)
+  * Add More Part B Info
+  * Add More Info about the Aframes Phone
 
 
 #### Peer Feedback
