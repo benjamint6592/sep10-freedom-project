@@ -1,16 +1,27 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Fun Fact about Nuclear Energy, something to do with Atoms, Molecules, or something related
 
 ## Product
-* 
+* A demonstration of my Nuclear Engineering Freedom Project Website
 
 ## Process
-* 
+* My initial plan
+ * My wireframe
+ * My plan.md
+* Code snippets from my HTML and CSS for my website
+ * How I made my Aframe
+ * How I created certain parts of my website using HTML and CSS
+ * Challenges I faced coding, especially with using new componentsand ones I haven't used in along time
 
 ## Conclusion
-* 
+* A link to my project
+* What I took away from creating the project (Takeaways)
+ * Improved knowledge of HTML structuring and CSS layout
+ * Adapting to issues and challenges I faced
+ * Learned how to integrate Aframe
+* Say Thank You to the Audience, maybe deliver quote by Enrico Fermi or any Nuclear innovator
 
 <!-- EXAMPLE
 
