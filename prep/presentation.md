@@ -18,9 +18,9 @@
 ## Conclusion
 * A link to my project
 * What I took away from creating the project (Takeaways)
- * Improved knowledge of HTML structuring and CSS layout
- * Adapting to issues and challenges I faced
- * Learned how to integrate Aframe
+  * Improved knowledge of HTML structuring and CSS layout
+  * Adapting to issues and challenges I faced
+  * Learned how to integrate Aframe
 * Say Thank You to the Audience, maybe deliver quote by Enrico Fermi or any Nuclear innovator
 
 <!-- EXAMPLE
